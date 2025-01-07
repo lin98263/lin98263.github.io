@@ -1,5 +1,9 @@
 # lin98263.github.io
-#C110181126林莆庭
+#影視資訊統整平台app 
+#組長：林莆庭
+#組員：林莆庭
+#指導老師：張珀銀 老師 
+#
 #![image](https://github.com/user-attachments/assets/d21730a9-9530-4fdd-9415-094c2a4e2a98)
 #![image](https://github.com/user-attachments/assets/12fb1417-a9d3-48d0-8aad-ef1ab4238d07)
 #![image](https://github.com/user-attachments/assets/8a5eee02-f5d3-454c-a452-650c544fce8d)
